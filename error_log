@@ -1,0 +1,26 @@
+[19-Oct-2014 22:37:43 Asia/Jakarta] PHP Warning:  include(lib/lib.php): failed to open stream: No such file or directory in /home/azzx1842/public_html/index.php on line 2
+[19-Oct-2014 22:37:43 Asia/Jakarta] PHP Warning:  include(lib/lib.php): failed to open stream: No such file or directory in /home/azzx1842/public_html/index.php on line 2
+[19-Oct-2014 22:37:43 Asia/Jakarta] PHP Warning:  include(): Failed opening 'lib/lib.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/azzx1842/public_html/index.php on line 2
+[19-Oct-2014 22:37:43 Asia/Jakarta] PHP Fatal error:  Call to undefined function top() in /home/azzx1842/public_html/index.php on line 8
+[19-Oct-2014 22:50:52 Asia/Jakarta] PHP Warning:  include(lib/lib.php): failed to open stream: No such file or directory in /home/azzx1842/public_html/index.php on line 2
+[19-Oct-2014 22:50:52 Asia/Jakarta] PHP Warning:  include(lib/lib.php): failed to open stream: No such file or directory in /home/azzx1842/public_html/index.php on line 2
+[19-Oct-2014 22:50:52 Asia/Jakarta] PHP Warning:  include(): Failed opening 'lib/lib.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/azzx1842/public_html/index.php on line 2
+[19-Oct-2014 22:50:52 Asia/Jakarta] PHP Fatal error:  Call to undefined function top() in /home/azzx1842/public_html/index.php on line 8
+[19-Oct-2014 22:53:01 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/azzx1842/public_html/admin/lib/koneksi.php on line 6
+[19-Oct-2014 23:01:52 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/azzx1842/public_html/admin/lib/koneksi.php on line 6
+[19-Oct-2014 23:03:18 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user ' azzx1842_azzahra'@'localhost' (using password: YES) in /home/azzx1842/public_html/admin/lib/koneksi.php on line 6
+[19-Oct-2014 23:03:32 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user ' azzx1842_azzahra'@'localhost' (using password: YES) in /home/azzx1842/public_html/admin/lib/koneksi.php on line 6
+[19-Oct-2014 23:03:42 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user ' azzx1842_azzahra'@'localhost' (using password: YES) in /home/azzx1842/public_html/admin/lib/koneksi.php on line 6
+[19-Oct-2014 23:04:03 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user ' azzx1842_azzahra'@'localhost' (using password: YES) in /home/azzx1842/public_html/admin/lib/koneksi.php on line 6
+[19-Oct-2014 23:05:15 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user ' azzx1842_azzahra'@'localhost' (using password: YES) in /home/azzx1842/public_html/admin/lib/koneksi.php on line 6
+[19-Oct-2014 23:05:16 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user ' azzx1842_azzahra'@'localhost' (using password: YES) in /home/azzx1842/public_html/admin/lib/koneksi.php on line 6
+[19-Oct-2014 23:05:17 Asia/Jakarta] PHP Warning:  mysql_connect(): Access denied for user ' azzx1842_azzahra'@'localhost' (using password: YES) in /home/azzx1842/public_html/admin/lib/koneksi.php on line 6
+[25-Oct-2014 16:59:47 Asia/Jakarta] PHP Warning:  include(../admin/lib/koneksi.php): failed to open stream: No such file or directory in /home/azzx1842/public_html/lib/footer.php on line 14
+[25-Oct-2014 16:59:47 Asia/Jakarta] PHP Warning:  include(../admin/lib/koneksi.php): failed to open stream: No such file or directory in /home/azzx1842/public_html/lib/footer.php on line 14
+[25-Oct-2014 16:59:47 Asia/Jakarta] PHP Warning:  include(): Failed opening '../admin/lib/koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/azzx1842/public_html/lib/footer.php on line 14
+[25-Oct-2014 17:00:21 Asia/Jakarta] PHP Warning:  include(../admin/lib/koneksi.php): failed to open stream: No such file or directory in /home/azzx1842/public_html/lib/footer.php on line 14
+[25-Oct-2014 17:00:21 Asia/Jakarta] PHP Warning:  include(../admin/lib/koneksi.php): failed to open stream: No such file or directory in /home/azzx1842/public_html/lib/footer.php on line 14
+[25-Oct-2014 17:00:21 Asia/Jakarta] PHP Warning:  include(): Failed opening '../admin/lib/koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/azzx1842/public_html/lib/footer.php on line 14
+[25-Oct-2014 17:00:43 Asia/Jakarta] PHP Warning:  include(../admin/lib/koneksi.php): failed to open stream: No such file or directory in /home/azzx1842/public_html/lib/footer.php on line 14
+[25-Oct-2014 17:00:43 Asia/Jakarta] PHP Warning:  include(../admin/lib/koneksi.php): failed to open stream: No such file or directory in /home/azzx1842/public_html/lib/footer.php on line 14
+[25-Oct-2014 17:00:43 Asia/Jakarta] PHP Warning:  include(): Failed opening '../admin/lib/koneksi.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/azzx1842/public_html/lib/footer.php on line 14

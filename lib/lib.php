@@ -1,0 +1,10 @@
+<?php
+error_reporting(0);
+include("admin/lib/koneksi.php");
+include("top.php");
+include("admin/lib/php.php");
+include("head.php");
+include("content.php");
+include("footer.php");
+include("bottom.php");
+?>

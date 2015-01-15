@@ -1,0 +1,1 @@
+var demoDataTables=function(){return{init:function(){$(".datatable").dataTable({ajax:"",sPaginationType:"bootstrap"});$(".chosen").chosen({width:"80px"})}}}();$(function(){demoDataTables.init()});
