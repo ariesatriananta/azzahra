@@ -90,12 +90,7 @@ $page_name='contact';
   </section>
     
     <br><br><br>
-    <section class="container mt40">
-        <a href="#">
-            <img src="img/spaceIklanAzzahra.jpg" alt="" title="space iklan 1200x120"/>
-        </a>
-        <div class="clearfix"></div>
-    </section>
+    <?php iklan(); ?>
     
 </div>
 

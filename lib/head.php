@@ -29,4 +29,36 @@ function head($page_name){ ?>
 </div>
 </header>
 <!-- Header End -->
-<?php } ?>
+<?php } 
+
+    function iklan(){ ?>
+        <section class="container mt40">
+        <table>
+            <tr>
+                <td  width='300' height='120' style="text-align: center;">
+                    <a href="#">
+                        <img src="img/spaceIklanAzzahra2.jpg" alt="" width='280' height="120" title="space iklan 1200x120"/>
+                    </a>
+                </td>
+                <td  width='300' height='120' style="text-align: center;">
+                    <a href="#">
+                        <img src="img/spaceIklanAzzahra2.jpg" alt="" width='280' height="120" title="space iklan 1200x120"/>
+                    </a>
+                </td>
+                <td  width='300' height='120' style="text-align: center;">
+                    <a href="#">
+                        <img src="img/spaceIklanAzzahra2.jpg" alt="" width='280' height="120" title="space iklan 1200x120"/>
+                    </a>
+                </td>
+                <td  width='300' height='120' style="text-align: center;">
+                    <a href="#">
+                        <img src="img/spaceIklanAzzahra2.jpg" alt="" width='280' height="120" title="space iklan 1200x120"/>
+                    </a>
+                </td>
+            </tr>
+        </table>
+        <div class="clearfix"></div>
+    </section>
+<?php
+    }
+?>
